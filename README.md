@@ -112,5 +112,5 @@ This project was developed on Arch Linux. If you encounter issues running Playwr
 ---
 
 **Author**: Benjamin Sukalo  
-**Course**: Web Testing Assignment  
+**Course**: SE302
 **Date**: 28. December 2025
